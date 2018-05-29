@@ -1,2 +1,1 @@
 six
--e git://github.com/builtbykrit/social-core.git@313f9e3265351042f4af5ad61cf4bf2ce9b446ab#egg=social-auth-core
