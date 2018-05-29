@@ -31,6 +31,7 @@ setup(
     description='Python Social Authentication, Django integration.',
     license='BSD',
     keywords='django, social auth',
+    dependency_links=['git+https://github.com/builtbykrit/social-core.git@313f9e3265351042f4af5ad61cf4bf2ce9b446ab#egg=social-auth-core'],
     url='https://github.com/python-social-auth/social-app-django',
     packages=[
         'social_django',
